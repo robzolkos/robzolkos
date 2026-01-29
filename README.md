@@ -42,6 +42,7 @@
 
 ### Agent Skills & Tools
 
+- 🛠️ **[zolkos-agent-skills](https://github.com/robzolkos/zolkos-agent-skills)** - My agent skills
 - 🧪 **[skill-karpathy-check](https://github.com/robzolkos/skill-karpathy-check)** - Code review skill that evaluates plans and implementation approaches
 - 🧪 **[skill-rails-system-test-analyzer](https://github.com/robzolkos/skill-rails-system-test-analyzer)** - Analyze Rails system tests for conversion to faster controller tests
 - 🧪 **[omarchy-waybar-skill](https://github.com/robzolkos/omarchy-waybar-skill)** - Agent skill for managing Waybar configuration
