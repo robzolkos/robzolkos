@@ -74,8 +74,3 @@
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/robzolkos)
 
 ---
-
-### Philosophy
-
-> Curious and creative. I pick the right tool for the problem — Ruby, Go, Python, Shell, whatever fits. Currently fascinated by how AI is reshaping software development.
-
