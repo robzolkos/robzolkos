@@ -1,14 +1,12 @@
-<table width="100%"><tr><td>
-
-# Hi, I'm Rob 👋
-
-</td><td align="right">
+<div align="right">
 
 [![Twitter](https://img.shields.io/badge/-@robzolkos-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/robzolkos)
 [![Blog](https://img.shields.io/badge/-zolkos.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://zolkos.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/robzolkos)
 
-</td></tr></table>
+</div>
+
+# Hi, I'm Rob 👋
 
 🤖 **Building Software** | 🧠 **Lots of AI lately**
 
