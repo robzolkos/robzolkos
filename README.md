@@ -62,12 +62,6 @@
 - 🧪 **[skill-rails-system-test-analyzer](https://github.com/robzolkos/skill-rails-system-test-analyzer)** - Analyze Rails system tests for conversion to faster controller tests
 - 🧪 **[omarchy-waybar-skill](https://github.com/robzolkos/omarchy-waybar-skill)** - Agent skill for managing Waybar configuration
 
-### Rails
-
-- 🎨 **[rails-svg-icon-demo](https://github.com/robzolkos/rails-svg-icon-demo)** - CSS mask technique for cacheable, colorable SVG icons
-- 🪟 **[modal-hotwire-example](https://github.com/robzolkos/modal-hotwire-example)** - Hotwire modal with validations/redirects
-- 🚀 **[rails_app_template](https://github.com/robzolkos/rails_app_template)** - Opinionated Rails starter project
-
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/robzolkos)
