@@ -67,7 +67,6 @@
 - 🎨 **[rails-svg-icon-demo](https://github.com/robzolkos/rails-svg-icon-demo)** - CSS mask technique for cacheable, colorable SVG icons
 - 🪟 **[modal-hotwire-example](https://github.com/robzolkos/modal-hotwire-example)** - Hotwire modal with validations/redirects
 - 🚀 **[rails_app_template](https://github.com/robzolkos/rails_app_template)** - Opinionated Rails starter project
-- 🍺 **[homebrew-tap](https://github.com/robzolkos/homebrew-tap)** - Homebrew tap for my projects
 
 ## GitHub Activity
 
