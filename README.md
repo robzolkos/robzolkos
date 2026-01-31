@@ -24,9 +24,10 @@
 
 ## Current Projects
 
-- 😂 **[eloncodereview](https://github.com/robzolkos/eloncodereview)** - Print your code for Elon to review. As a service.
-- 📢 **[shout](https://github.com/robzolkos/shout)** - Fast Speech to Text for Omarchy
 - 🧑‍💻 **[fizzy-cli](https://github.com/robzolkos/fizzy-cli)** - A command-line interface for the Fizzy API
+- 🏕️ **[basecamp-cli](https://github.com/robzolkos/basecamp-cli)** - CLI and Agent Skill for interacting with Basecamp projects
+- 🛠️ **[zolkos-agent-skills](https://github.com/robzolkos/zolkos-agent-skills)** - My agent skills
+- 📢 **[shout](https://github.com/robzolkos/shout)** - Fast Speech to Text for Omarchy
 - 🐳 **[rails-devcontainer](https://github.com/robzolkos/rails-devcontainer)** - Rails devcontainer setup
 - 🔄 **[skill-rails-upgrade](https://github.com/robzolkos/skill-rails-upgrade)** - Agent skill for Rails upgrades
 - 🎯 **[hotwirenativedirectory](https://github.com/robzolkos/hotwirenativedirectory)** - Hotwire Native directory
@@ -49,12 +50,11 @@
 - 🌐 **[carbonation-dev-site](https://github.com/robzolkos/carbonation-dev-site)** - Directory of community-built Fizzy projects
 - 📤 **[claude-session-export](https://github.com/robzolkos/claude-session-export)** - Export Claude Code sessions to web page viewing
 - 🔀 **[prd2fizzy](https://github.com/robzolkos/prd2fizzy)** - PRD to Fizzy
-- 🏕️ **[basecamp-cli](https://github.com/robzolkos/basecamp-cli)** - CLI and Agent Skill for interacting with Basecamp projects
 - 📰 **[opencode-release-command](https://github.com/robzolkos/opencode-release-command)** - OpenCode command for generating press releases
 - 🚫 **[require-approved-issue](https://github.com/robzolkos/require-approved-issue)** - GitHub Action that closes PRs unless linked to an approved issue
-- 🛠️ **[zolkos-agent-skills](https://github.com/robzolkos/zolkos-agent-skills)** - My agent skills
 - 🐍 **[fizzy-client-python](https://github.com/robzolkos/fizzy-client-python)** - Python client for the Fizzy API
 - 📚 **[writebook-scraper](https://github.com/robzolkos/writebook-scraper)** - Scrape Writebook sites
+- 😂 **[eloncodereview](https://github.com/robzolkos/eloncodereview)** - Print your code for Elon to review. As a service.
 
 ## Latest Blog Posts
 
