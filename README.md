@@ -34,6 +34,10 @@
 - 🌐 **[web-recap](https://github.com/robzolkos/web-recap)** - Turn your browser history into AI-ready insights
 - 🎯 **[hotwirenativedirectory](https://github.com/robzolkos/hotwirenativedirectory)** - Hotwire Native directory
 - 😂 **[eloncodereview](https://github.com/robzolkos/eloncodereview)** - Print your code for Elon to review. As a service.
+- 🏕️ **[basecamp-cli](https://github.com/robzolkos/basecamp-cli)** - CLI and Agent Skill for interacting with Basecamp projects
+- 📰 **[opencode-release-command](https://github.com/robzolkos/opencode-release-command)** - OpenCode command for generating press releases
+- 📚 **[writebook-scraper](https://github.com/robzolkos/writebook-scraper)** - Scrape Writebook sites
+- 🎨 **[csscaffold](https://github.com/robzolkos/csscaffold)** - This is not the greatest CSS framework in the world. It's just a tribute.
 
 ### Fizzy Ecosystem
 
@@ -42,6 +46,7 @@
 - 🔗 **[n8n-nodes-fizzy](https://github.com/robzolkos/n8n-nodes-fizzy)** - n8n community node for Fizzy
 - 📡 **[fizzy-api-change-monitor](https://github.com/robzolkos/fizzy-api-change-monitor)** - Monitor upstream Fizzy repo for API changes
 - 🌐 **[carbonation-dev-site](https://github.com/robzolkos/carbonation-dev-site)** - Directory of community-built Fizzy projects
+- 🧪 **[carbonation-labs](https://github.com/robzolkos/carbonation-labs)** - Experimental Fizzy ideas and prototypes
 - 🔀 **[gh2fizzy](https://github.com/robzolkos/gh2fizzy)** - Migrate GitHub issues to Fizzy
 - 🔀 **[jira2fizzy](https://github.com/robzolkos/jira2fizzy)** - Migrate Jira issues to Fizzy
 - 🔀 **[linear2fizzy](https://github.com/robzolkos/linear2fizzy)** - Migrate Linear issues to Fizzy
