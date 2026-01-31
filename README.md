@@ -38,6 +38,8 @@
 - 📰 **[opencode-release-command](https://github.com/robzolkos/opencode-release-command)** - OpenCode command for generating press releases
 - 📚 **[writebook-scraper](https://github.com/robzolkos/writebook-scraper)** - Scrape Writebook sites
 - 🎨 **[csscaffold](https://github.com/robzolkos/csscaffold)** - This is not the greatest CSS framework in the world. It's just a tribute.
+- 📤 **[claude-session-export](https://github.com/robzolkos/claude-session-export)** - Export Claude Code sessions to web page viewing
+- 🚫 **[require-approved-issue](https://github.com/robzolkos/require-approved-issue)** - GitHub Action that closes PRs unless linked to an approved issue
 
 ### Fizzy Ecosystem
 
@@ -59,8 +61,6 @@
 - 🧪 **[skill-karpathy-check](https://github.com/robzolkos/skill-karpathy-check)** - Code review skill that evaluates plans and implementation approaches
 - 🧪 **[skill-rails-system-test-analyzer](https://github.com/robzolkos/skill-rails-system-test-analyzer)** - Analyze Rails system tests for conversion to faster controller tests
 - 🧪 **[omarchy-waybar-skill](https://github.com/robzolkos/omarchy-waybar-skill)** - Agent skill for managing Waybar configuration
-- 📤 **[claude-session-export](https://github.com/robzolkos/claude-session-export)** - Export Claude Code sessions to web page viewing
-- 🚫 **[require-approved-issue](https://github.com/robzolkos/require-approved-issue)** - GitHub Action that closes PRs unless linked to an approved issue
 
 ### Rails
 
