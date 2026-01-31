@@ -24,43 +24,37 @@
 
 ## Current Projects
 
+- 😂 **[eloncodereview](https://github.com/robzolkos/eloncodereview)** - Print your code for Elon to review. As a service.
 - 📢 **[shout](https://github.com/robzolkos/shout)** - Fast Speech to Text for Omarchy
 - 🧑‍💻 **[fizzy-cli](https://github.com/robzolkos/fizzy-cli)** - A command-line interface for the Fizzy API
-- 🍭 **[fizzy-skill](https://github.com/robzolkos/fizzy-skill)** - Agent skill for Claude Code and Opencode
 - 🐳 **[rails-devcontainer](https://github.com/robzolkos/rails-devcontainer)** - Rails devcontainer setup
 - 🔄 **[skill-rails-upgrade](https://github.com/robzolkos/skill-rails-upgrade)** - Agent skill for Rails upgrades
+- 🎯 **[hotwirenativedirectory](https://github.com/robzolkos/hotwirenativedirectory)** - Hotwire Native directory
 - 📋 **[claude-commands](https://github.com/robzolkos/claude-commands)** - Commands for Claude Code
+- 🍭 **[fizzy-skill](https://github.com/robzolkos/fizzy-skill)** - Agent skill for Claude Code and Opencode
+- 🎨 **[csscaffold](https://github.com/robzolkos/csscaffold)** - This is not the greatest CSS framework in the world. It's just a tribute.
 - 🖥️ **[omarchy-skill](https://github.com/robzolkos/omarchy-skill)** - Agent skill for managing Omarchy Linux systems with natural language
 - 🌐 **[web-recap](https://github.com/robzolkos/web-recap)** - Turn your browser history into AI-ready insights
-- 🎯 **[hotwirenativedirectory](https://github.com/robzolkos/hotwirenativedirectory)** - Hotwire Native directory
-- 😂 **[eloncodereview](https://github.com/robzolkos/eloncodereview)** - Print your code for Elon to review. As a service.
-- 🏕️ **[basecamp-cli](https://github.com/robzolkos/basecamp-cli)** - CLI and Agent Skill for interacting with Basecamp projects
-- 📰 **[opencode-release-command](https://github.com/robzolkos/opencode-release-command)** - OpenCode command for generating press releases
-- 📚 **[writebook-scraper](https://github.com/robzolkos/writebook-scraper)** - Scrape Writebook sites
-- 🎨 **[csscaffold](https://github.com/robzolkos/csscaffold)** - This is not the greatest CSS framework in the world. It's just a tribute.
-- 📤 **[claude-session-export](https://github.com/robzolkos/claude-session-export)** - Export Claude Code sessions to web page viewing
-- 🚫 **[require-approved-issue](https://github.com/robzolkos/require-approved-issue)** - GitHub Action that closes PRs unless linked to an approved issue
-
-### Fizzy Ecosystem
-
-- 💎 **[fizzy-api-client](https://github.com/robzolkos/fizzy-api-client)** - Ruby client for the Fizzy API
-- 🐍 **[fizzy-client-python](https://github.com/robzolkos/fizzy-client-python)** - Python client for the Fizzy API
-- 🔗 **[n8n-nodes-fizzy](https://github.com/robzolkos/n8n-nodes-fizzy)** - n8n community node for Fizzy
-- 📡 **[fizzy-api-change-monitor](https://github.com/robzolkos/fizzy-api-change-monitor)** - Monitor upstream Fizzy repo for API changes
-- 🌐 **[carbonation-dev-site](https://github.com/robzolkos/carbonation-dev-site)** - Directory of community-built Fizzy projects
-- 🧪 **[carbonation-labs](https://github.com/robzolkos/carbonation-labs)** - Experimental Fizzy ideas and prototypes
 - 🔀 **[gh2fizzy](https://github.com/robzolkos/gh2fizzy)** - Migrate GitHub issues to Fizzy
+- 💎 **[fizzy-api-client](https://github.com/robzolkos/fizzy-api-client)** - Ruby client for the Fizzy API
+- 🧪 **[carbonation-labs](https://github.com/robzolkos/carbonation-labs)** - Experimental Fizzy ideas and prototypes
+- 🧪 **[skill-karpathy-check](https://github.com/robzolkos/skill-karpathy-check)** - Code review skill that evaluates plans and implementation approaches
+- 📡 **[fizzy-api-change-monitor](https://github.com/robzolkos/fizzy-api-change-monitor)** - Monitor upstream Fizzy repo for API changes
 - 🔀 **[jira2fizzy](https://github.com/robzolkos/jira2fizzy)** - Migrate Jira issues to Fizzy
 - 🔀 **[linear2fizzy](https://github.com/robzolkos/linear2fizzy)** - Migrate Linear issues to Fizzy
-- 🔀 **[asana2fizzy](https://github.com/robzolkos/asana2fizzy)** - Migrate Asana tasks to Fizzy
-- 🔀 **[prd2fizzy](https://github.com/robzolkos/prd2fizzy)** - PRD to Fizzy
-
-### Agent Skills & Tools
-
-- 🛠️ **[zolkos-agent-skills](https://github.com/robzolkos/zolkos-agent-skills)** - My agent skills
-- 🧪 **[skill-karpathy-check](https://github.com/robzolkos/skill-karpathy-check)** - Code review skill that evaluates plans and implementation approaches
-- 🧪 **[skill-rails-system-test-analyzer](https://github.com/robzolkos/skill-rails-system-test-analyzer)** - Analyze Rails system tests for conversion to faster controller tests
+- 🔗 **[n8n-nodes-fizzy](https://github.com/robzolkos/n8n-nodes-fizzy)** - n8n community node for Fizzy
 - 🧪 **[omarchy-waybar-skill](https://github.com/robzolkos/omarchy-waybar-skill)** - Agent skill for managing Waybar configuration
+- 🔀 **[asana2fizzy](https://github.com/robzolkos/asana2fizzy)** - Migrate Asana tasks to Fizzy
+- 🧪 **[skill-rails-system-test-analyzer](https://github.com/robzolkos/skill-rails-system-test-analyzer)** - Analyze Rails system tests for conversion to faster controller tests
+- 🌐 **[carbonation-dev-site](https://github.com/robzolkos/carbonation-dev-site)** - Directory of community-built Fizzy projects
+- 📤 **[claude-session-export](https://github.com/robzolkos/claude-session-export)** - Export Claude Code sessions to web page viewing
+- 🔀 **[prd2fizzy](https://github.com/robzolkos/prd2fizzy)** - PRD to Fizzy
+- 🏕️ **[basecamp-cli](https://github.com/robzolkos/basecamp-cli)** - CLI and Agent Skill for interacting with Basecamp projects
+- 📰 **[opencode-release-command](https://github.com/robzolkos/opencode-release-command)** - OpenCode command for generating press releases
+- 🚫 **[require-approved-issue](https://github.com/robzolkos/require-approved-issue)** - GitHub Action that closes PRs unless linked to an approved issue
+- 🛠️ **[zolkos-agent-skills](https://github.com/robzolkos/zolkos-agent-skills)** - My agent skills
+- 🐍 **[fizzy-client-python](https://github.com/robzolkos/fizzy-client-python)** - Python client for the Fizzy API
+- 📚 **[writebook-scraper](https://github.com/robzolkos/writebook-scraper)** - Scrape Writebook sites
 
 ## GitHub Activity
 
