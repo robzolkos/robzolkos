@@ -56,6 +56,16 @@
 - 🐍 **[fizzy-client-python](https://github.com/robzolkos/fizzy-client-python)** - Python client for the Fizzy API
 - 📚 **[writebook-scraper](https://github.com/robzolkos/writebook-scraper)** - Scrape Writebook sites
 
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [So where can we use our Claude subscription then?](https://zolkos.com/2026/01/12/so-where-can-we-use-our-claude-subscription-then)
+- [A Month Exploring Fizzy](https://zolkos.com/2026/01/02/a-month-exploring-fizzy)
+- [Fizzy's Pull Requests: Who Built What and How](https://zolkos.com/2025/12/10/fizzys-pull-requests)
+- [Fizzy Design Evolution: A Flipbook from Git](https://zolkos.com/2025/12/08/fizzy-design-evolution-a-flipbook-from-git)
+- [Vanilla CSS is all you need](https://zolkos.com/2025/12/03/vanilla-css-is-all-you-need)
+<!-- BLOG-POST-LIST:END -->
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/robzolkos)
