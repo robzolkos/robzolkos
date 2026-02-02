@@ -25,6 +25,8 @@
 ## Current Projects
 
 - 🧑‍💻 **[fizzy-cli](https://github.com/robzolkos/fizzy-cli)** - A command-line interface for the Fizzy API
+- 🐛 **[rollbar-cli](https://github.com/robzolkos/rollbar-cli)** - CLI and Agent Skill for Rollbar error tracking
+- 📊 **[appsignal-cli](https://github.com/robzolkos/appsignal-cli)** - CLI for AppSignal error monitoring
 - 🏕️ **[basecamp-cli](https://github.com/robzolkos/basecamp-cli)** - A command-line interface for the Basecamp API
 - 🛠️ **[zolkos-agent-skills](https://github.com/robzolkos/zolkos-agent-skills)** - My agent skills
 - 📢 **[shout](https://github.com/robzolkos/shout)** - Fast Speech to Text for Omarchy
